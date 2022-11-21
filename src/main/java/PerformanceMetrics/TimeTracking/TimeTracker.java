@@ -7,6 +7,7 @@ public interface TimeTracker {
      long calcRunTime(final String className);
 
      void addTimer(final String className);
+     long callRunTimeDiff(String firstCallKey, String secondCallKey);
 
      String startTimeSave();
 }
