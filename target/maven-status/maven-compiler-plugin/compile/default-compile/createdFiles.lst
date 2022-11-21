@@ -1,2 +1,7 @@
 Logger/BaseLogger.class
+PerformanceMetrics/TimeTracking/TimeTrackerTuple.class
+PerformanceMetrics/TimeTracking/TimeTrackerBase.class
 Logger/MainLogger.class
+PerformanceMetrics/TimeTracking/TimeTrackerTuple$TimeTrackerTupleBuilder.class
+PerformanceMetrics/TimeTracking/TimeTracker.class
+PerformanceMetrics/TimeTracking/TimeTrackerBase$TimeTrackerBaseBuilder.class
